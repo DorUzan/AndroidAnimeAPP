@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173381319557",
+    "project_id": "animeinfofun",
+    "storage_bucket": "animeinfofun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173381319557:android:ed254557052b595079a2ec",
+        "android_client_info": {
+          "package_name": "com.animefanbase.animeinfofun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173381319557-ndctni96hqkqq0k451rtfdmv8ecsjghq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYE59iBtr1nxT2yWilvkuI_tz7mQonAa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173381319557-ndctni96hqkqq0k451rtfdmv8ecsjghq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
